@@ -86,6 +86,41 @@
       "type": "Game"
     },
     {
+      "location": "swfs/armedwithwings.swf",
+      "title": "ArmedWithWings",
+      "author": "Sun-Studios",
+      "authorLink": "https://www.sunstudio.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/armed_with_wings_2.swf",
+      "title": "ArmedWithWings2",
+      "author": "Sun-Studios",
+      "authorLink": "https://www.sunstudio.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/AwW_3_v.17.swf",
+      "title": "ArmedWithWings3",
+      "author": "Sun-Studios",
+      "authorLink": "https://www.sunstudio.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/armed_with_wings_culmination.swf",
+      "title": "ArmedWithWingsCulmination",
+      "author": "Sun-Studios",
+      "authorLink": "https://www.sunstudio.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/rearmed_trials.swf",
+      "title": "ArmedWithWingsRearmedTrials",
+      "author": "Sun-Studios",
+      "authorLink": "https://www.sunstudio.com",
+      "type": "Game"
+    },
+    {
       "location": "swfs/Madness-Project-Nexus.swf",
       "title": "CMPN",
       "author": "Tony",
