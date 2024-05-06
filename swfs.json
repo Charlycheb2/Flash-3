@@ -70,6 +70,27 @@
       "author": "Tom Fulp",
       "authorLink": "https://www.newgrounds.com",
       "type": "Game"
+    },
+    {
+      "location": "swfs/supermario63(maybeglitchy notwork).swf",
+      "title": "Sm63",
+      "author": "Kai",
+      "authorLink": "Art.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/ssf:ONE.swf",
+      "title": "SSF1",
+      "author": "McLeodGaming",
+      "authorLink": "https://www.mcleodgaming.com/ssf2",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/Madness-Project-Nexus.swf",
+      "title": "CMPN",
+      "author": "Tony",
+      "authorLink": "Tony.com",
+      "type": "Game"
     }
   ]
 }
