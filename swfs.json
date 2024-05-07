@@ -121,6 +121,13 @@
       "type": "Game"
     },
     {
+      "location": "swfs/isworknow.swf",
+      "title": "SSF2 0.8b [Won't Run]",
+      "author": "McLeodGaming",
+      "authorLink": "https://www.mcleodgaming.com",
+      "type": "Game"
+    },
+    {
       "location": "swfs/Madness-Project-Nexus.swf",
       "title": "CMPN",
       "author": "Tony",
@@ -129,3 +136,4 @@
     }
   ]
 }
+
