@@ -175,13 +175,22 @@
       "author": "Edmund McMillen",
       "authorLink": "http://www.supermeatboy.com/",
       "type": "Game"
-    },    {
+    },    
+    {
       "location": "swfs/FPAWorld1.swf",
       "title": "Fancy Pants Adventure World 1",
       "author": "Brad Borne",
       "authorLink": "https://www.bornegames.com/",
       "type": "Game"
     },
+    {
+      "location": "swfs/riddleschool.swf",
+      "title": "Riddle School",
+      "author": "Jonochrome",
+      "authorLink": "https://jonbro.newgrounds.com/",
+      "type": "Game"
+    },
+
     {
       "location": "swfs/Madness-Project-Nexus.swf",
       "title": "CMPN",
