@@ -22,6 +22,14 @@
       "type": "Animation"
     },
     {
+      "location": "swfs/happyWheels (1).swf",
+      "title": "Happy Wheels",
+      "author": "Jim Bonacci",
+      "authorLink": "https://totaljerkface.com/",
+      "type": "Game"
+    },
+
+    {
       "location": "swfs/saturday_morning_watchmen.swf",
       "title": "Saturday Morning Watchmen",
       "author": "Harry Partridge",
